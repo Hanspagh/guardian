@@ -1,7 +1,7 @@
 # Master (unreleased)
 
 * Add `one_of` to permissions Plug to allow for OR'd sets of permissions as well as AND'd ones
-
+* Adds long living refresh tokens which can be exchanged to shorter living access tokens
 # v 0.11.1
 
 * Support for secret keys other than "oct" which provides support for signature
